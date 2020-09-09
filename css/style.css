@@ -6,23 +6,17 @@ html{
 
 h1 {
 	text-align: center;
-	font-family: "Lucida Console", Courier, sans-serif;
 	font-size: 64px;
-	color: #FFFFFF;
 }
 
 h2 {
-	font-family: "Lucida Console", Courier, sans-serif;
 	font-size: 30px;
 	text-shadow: 5px 5px 2px #808080;
-	color: #FFFFFF;
 }
 
 p {
-	font-family: "Lucida Console", Courier, sans-serif;
 	font-size: 24px;
 	padding-top: 20px;
-	color: #FFFFFF;
 }
 
 img {
@@ -52,17 +46,17 @@ div {
 	text-align: right;
 }
 
-#yellow h2 {
+#yellow p {
 	color: #000000;
 }
 
-#yellow p {
+#yellow h2 {
 	color: #000000;
 	text-shadow: 5px 5px 2px #c7e2c7;
 }
 
 #green {
-	background-color: #09FF00 ;
+	background-color: #008000;
 	text-align: left;
 }
 
